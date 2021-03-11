@@ -46,7 +46,7 @@ Describe any challenges encountered while building the app.
 
 # Project 2 Part 1 - SimpleTweet
 
-**SimpleTodo** is an android app that allows a user to view their Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
+**SimpleTweet** is an android app that allows a user to view their Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
 Time spent: **4** hours spent in total
 
